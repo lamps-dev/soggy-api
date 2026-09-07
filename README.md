@@ -7,5 +7,6 @@ This is just a pretty silly api, and you have to get the url of the image direct
 However, you can add your own soggy images if you want!1!1!1!1!
 
 ## Using it
-You can use it at https://soggy-api.onrender.com/img
+If you want the fastest API, use https://soggyapi.sillycat.cloud/img (may go down at any moment, cuz its selfhosted)
+If you want a slow starting API, use https://soggy-api.onrender.com/img.
 As expected, the response JSON is the filename and URL, but you can add more to it if you host it yourself and fork the project!
